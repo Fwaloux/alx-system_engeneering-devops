@@ -4,3 +4,4 @@
 2-display a file
 3-what about to
 4-Last line of a file
+5-I'd prefer the first ones actualy
