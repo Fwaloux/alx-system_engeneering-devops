@@ -8,3 +8,4 @@
 6-line#2
 7-Create a god file that cut iron without noise
 8-Save current state of directory
+9-Duplicate last line
