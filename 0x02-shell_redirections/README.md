@@ -7,3 +7,4 @@
 5-I'd prefer the first ones actualy
 6-line#2
 7-Create a god file that cut iron without noise
+8-Save current state of directory
